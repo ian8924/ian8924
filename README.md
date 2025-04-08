@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ian8924&label=Profile%20views&color=0e75b6&style=flat" alt="ian8924" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian8924" alt="ian8924" /></a> </p>
+<img src="https://github-profile-trophy.vercel.app/?username=ian8924&theme=dark_dimmed&column=9&margin-w=15&margin-h=15" alt="ian8924" />
 
 
 <h1 align="left">💻 Tech Stack</h1>
@@ -17,7 +17,7 @@
 
   <h1 align="left">📊 GitHub Stats </h1>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ian8924&show_icons=true&locale=en&layout=compact" alt="ian8924" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ian8924&show_icons=true&locale=en" alt="ian8924" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ian8924&show_icons=true&locale=en&theme=holi" alt="ian8924" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ian8924&show_icons=true&locale=en&theme=holi" alt="ian8924" />
 
 
