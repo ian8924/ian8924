@@ -2,7 +2,7 @@
 <h1 width="100%" align="left">Hi 👋, I'm Ian  </h1>
 <div align="right"> <img src="https://komarev.com/ghpvc/?username=ian8924&label=Profile%20views&color=0e75b6&style=flat" alt="ian8924" /> </div>
 
-<h3 align="left">😎 A software engineer from Taiwan</h3>
+<h3 align="left">😎 Software Engineer from Taiwan</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <img src="https://github-profile-trophy.vercel.app/?username=ian8924&theme=dark_dimmed&column=9&margin-w=15&margin-h=15" alt="ian8924" />
